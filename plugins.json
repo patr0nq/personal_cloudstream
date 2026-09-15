@@ -11,7 +11,7 @@
             "JustRelaxable"
         ],
         "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-        "fileSize": 29408,
+        "fileSize": 29429,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -19,7 +19,7 @@
         ],
         "iconUrl": "https://animecix.tv/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-9fb41b1af6189a5a703f61f0bb592e844dde625a6febf19d6dbc395b7baa48be"
+        "fileHash": "sha256-c7c43fdb9ea2dfafb9dcdae38258c54f23f6af5a92f017e6f0e209274d6bf121"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/AsyaAnimeleri.cs3",
@@ -31,7 +31,7 @@
             "patr0n"
         ],
         "description": "Asya Animeleri - Anime izle, Donghua izle, Türkçe Altyazılı Anime izle.",
-        "fileSize": 16580,
+        "fileSize": 16594,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=asyaanimeleri.top&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-353ed6f4bf83ba5b73f62a738b5e73fc57d89c221d1cd922e1537fa72582fbda"
+        "fileHash": "sha256-18ccc631c48fa295ab2bc4b1c9b6d15815120abb1b90ee95effd866655cbbddd"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/CizgiMax.cs3",
@@ -51,7 +51,7 @@
             "keyiflerolsun"
         ],
         "description": "ÇizgiMax ile Çizgi Film izlemek artık daha kolay, donmadan full hd ve reklamsız bir sitedir, içerisinde 700 den fazla çizgi film olan, Bu site bu işi profesyonelce yapıyor.",
-        "fileSize": 36402,
+        "fileSize": 36425,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=cizgimax.online&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-e778147c97cdf2c45b21fb339dc5d95b9c6eead95bd88047ec7bb3462c4302ae"
+        "fileHash": "sha256-bafab833b8fc965ed88ac55301c06c5cb6c663482417c07d1b46a54ec4890bf5"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/DiziBox.cs3",
@@ -73,7 +73,7 @@
             "keyiflerolsun"
         ],
         "description": "Yabancı Dizi izle, Tüm yabancı dizilerin yeni ve eski sezonlarını full hd izleyebileceğiniz elit site.",
-        "fileSize": 31478,
+        "fileSize": 31483,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -81,7 +81,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizibox.live&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-156e8a319b197d0ac04607db1f93db176008f6e6692e6a2443c238606cb8f776"
+        "fileHash": "sha256-0c6607d5c0f3ca81fb34ae8568af8e63647f561efe6e26eccfd6aac012fd8b8e"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/Dizilla.cs3",
@@ -93,7 +93,7 @@
             "keyiflerolsun"
         ],
         "description": "Dizilla tüm yabancı dizileri ücretsiz olarak Türkçe Dublaj ve altyazılı seçenekleri ile 1080P kalite izleyebileceğiniz yeni nesil yabancı dizi izleme siteniz.",
-        "fileSize": 38664,
+        "fileSize": 38684,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -101,7 +101,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizilla.club&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-312af9c0344f66601385b1f7d5fd7fa476387c4ba4f8b546749d1d96a9f1ad11"
+        "fileHash": "sha256-f747bdcf581faeb1d4e424fdba7818986634acfe235a262d67e9f3a59179d9f9"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/DiziMom.cs3",
@@ -113,7 +113,7 @@
             "keyiflerolsun"
         ],
         "description": "Binlerce yerli yabancı dizi arşivi, tüm sezonlar, kesintisiz bölümler. Sadece dizi izle, Dizimom heryerde seninle!",
-        "fileSize": 37097,
+        "fileSize": 37107,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -121,7 +121,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.dizimom.plus&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-f6b94356adbdcb0d8143938a4c1f959676e6b625688f8e6853870938b672dfa5"
+        "fileHash": "sha256-c552418b8bc369fa2673d71f028ae3fbbb95a680e042aa8ba88cb6882ffb9eb0"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/DiziPal.cs3",
@@ -134,7 +134,7 @@
             "muratcesmecioglu"
         ],
         "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 31211,
+        "fileSize": 31227,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -143,7 +143,7 @@
         ],
         "iconUrl": "https://dizipal1563.com/assets/favicon/favicon-32x32.png?v=3",
         "apiVersion": 1,
-        "fileHash": "sha256-dd19c70eacebd3bf8bcd58e409df66206872ab5f33ab9c1fdb4acb3f0cc4ccbb"
+        "fileHash": "sha256-5ea97e967bee55aab29500dd33d4d4b967a49fe9cecc464bc2ada83d3421c7e9"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/DiziPalOriginal.cs3",
@@ -156,7 +156,7 @@
             "muratcesmecioglu"
         ],
         "description": "en yeni dizileri güvenli ve hızlı şekilde sunar.",
-        "fileSize": 26470,
+        "fileSize": 26488,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -165,7 +165,7 @@
         ],
         "iconUrl": "https://chessplyimages.cfd/uploads/site/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-04aaea78af3f4adf25516249332715e2fe0131f771f7f93845fb90f94de16104"
+        "fileHash": "sha256-c67047191690fa95714982acb609a8ca7c250864806cc14d6ea519374a67e068"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/DiziPod.cs3",
@@ -177,7 +177,7 @@
             "patr0n"
         ],
         "description": "Yabancı dizi ve film izleme platformu. Altyazılı yabancı dizi ve film izle.",
-        "fileSize": 25073,
+        "fileSize": 25083,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -186,7 +186,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=dizipod.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-7fd8c3fc806376b5b793aaa159a0247ab2993898e4070e66ade8654be3ea82b5"
+        "fileHash": "sha256-6d8a4b62eaba9064cfb087d08a545c9f73ba4e1a37d41bef295ffe36e57e7d5c"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/DiziYou.cs3",
@@ -198,7 +198,7 @@
             "keyiflerolsun"
         ],
         "description": "Diziyou en kaliteli Türkçe dublaj ve altyazılı yabancı dizi izleme sitesidir. Güncel ve efsanevi dizileri 1080p Full HD kalitede izlemek için hemen tıkla!",
-        "fileSize": 18766,
+        "fileSize": 18779,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -206,7 +206,7 @@
         ],
         "iconUrl": "https://cdn.diziyou.one/wp-content/uploads/2020/04/diziyou-favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-e27731958417cdcfff8aa336eef25d1f27f4e7b618704582b7335e59a1eab3e1"
+        "fileHash": "sha256-4f3bfc2719e4ff5b07b0c371fce4a8e171c6b01a1b4917124d40ff931ad2c80b"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/FilmMakinesi.cs3",
@@ -219,7 +219,7 @@
             "usdogu"
         ],
         "description": "Film Makinesi, en yeni ve en güncel filmleri sitemizde full HD kalite farkı ile izleyebilirsiniz. HD film izle denildiğinde akla gelen en kaliteli film izleme sitesi.",
-        "fileSize": 40494,
+        "fileSize": 40501,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -227,7 +227,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=filmmakinesi.film&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-b9796406594c7c4b6ff6142639044810f36f10c25723f3a8cbfe806dbefbacf6"
+        "fileHash": "sha256-661541b8739d07079e9be5e41e2d04ba1347dd8864408dc711c01dcec3c52676"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/FilmModu.cs3",
@@ -239,7 +239,7 @@
             "keyiflerolsun"
         ],
         "description": "Film modun geldiyse yüksek kalitede en yeni filmleri izle, 1080p izleyebileceğiniz reklamsiz film sitesi.",
-        "fileSize": 19304,
+        "fileSize": 19312,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -247,7 +247,7 @@
         ],
         "iconUrl": "https://www.filmmodu.one/icon/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-34c405b54d7c1e5df0aad2318f65e80c642cd3c2ad8947ac95cd1e330239de33"
+        "fileHash": "sha256-b733b80a026520d44adaddc495e47ec72e51e371348b0fb3bb598af31cf9d0c2"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/FullHDFilmizlesene.cs3",
@@ -259,7 +259,7 @@
             "keyiflerolsun"
         ],
         "description": "Sinema zevkini evinize kadar getirdik. Türkiye'nin lider Film sitesinde, en yeni filmleri Full HD izleyin.",
-        "fileSize": 41493,
+        "fileSize": 41515,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -267,7 +267,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.fullhdfilmizlesene.de&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-c882c3ff1a6aba4de04eea85aa0139de558dc91b33eccd19985381e7ea81bb64"
+        "fileHash": "sha256-f11b0a6502ac198503122d59feee72dd29c2e1877e0a9f0410d08232f56618c0"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/HDFilmCehennemi.cs3",
@@ -280,7 +280,7 @@
             "keyiflerolsun"
         ],
         "description": "Türkiye'nin en hızlı hd film izleme sitesi",
-        "fileSize": 32556,
+        "fileSize": 32564,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -289,7 +289,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-f14ecb8ea083a563963da9b07b1696a2a69671261ad275c20c3386554ec09b57"
+        "fileHash": "sha256-6f05822fbc0ff403de20292e28377945483e5aacfad9630150ec04618dab2987"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/HDFilmDelisi.cs3",
@@ -301,7 +301,7 @@
             "patr0n"
         ],
         "description": "HD Film Delisi - Türkçe Filmler",
-        "fileSize": 61515,
+        "fileSize": 61519,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -310,7 +310,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmdelisi.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-07ddcc5a4f6eedaa698d9fb2a88b18ceb08171fbf0d4d33307a000cf6dbaa9b3"
+        "fileHash": "sha256-2fe0ff93c33e0726ba9f40430789e6ce3c7754b88c02782d2e249daba76c7cd5"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/JetFilmizle.cs3",
@@ -322,7 +322,7 @@
             "keyiflerolsun"
         ],
         "description": "Binlerce Film İzleme Seçeneğiyle En İyi Film İzleme Sitesi",
-        "fileSize": 21523,
+        "fileSize": 21518,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -330,7 +330,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-a2c8eeb6c3b39cd6a24e89445c5c86e73d10c917854ea07e753e6d4b0edaef2e"
+        "fileHash": "sha256-57ad5ddd42607893da4e3cf57cd2692c5ec15ca71dad053a4db9e0f063f9a9d9"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/RecTV.cs3",
@@ -346,7 +346,7 @@
             "patr0n"
         ],
         "description": "RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-        "fileSize": 40211,
+        "fileSize": 40221,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -356,7 +356,7 @@
         ],
         "iconUrl": "https://rectv.org.tr/wp-content/uploads/2024/11/rectv-modified.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-1c98991860385fd8842218ed0bf8d3f18898b0274733eaf009ffa0f6e877eede"
+        "fileHash": "sha256-e04263fe93a131c4502fab15615735d6826580f99062f61dc2b062c0ce8976ab"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/SelcukFlix.cs3",
@@ -368,7 +368,7 @@
             "patr0n"
         ],
         "description": "SelcukFlix eklentisi.",
-        "fileSize": 36718,
+        "fileSize": 36741,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -377,7 +377,7 @@
         ],
         "iconUrl": "https://selcukflix.co/assets/favicon/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7bf95ecff0f58447d34d36dda4087bbccba3298f1a4aa5070a3ad92a244f101d"
+        "fileHash": "sha256-4e222fb784abd055d341e1cc6c3396ab650a778ff83858bd78b41655b912ae39"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/SezonlukDizi.cs3",
@@ -390,7 +390,7 @@
             "JustRelaxable"
         ],
         "description": "Güncel ve eski dizileri en iyi görüntü kalitesiyle bulabileceğiniz yabancı dizi izleme siteniz.",
-        "fileSize": 24542,
+        "fileSize": 24554,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -398,7 +398,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-26a1aeef0cf0a77c09b907372fc9741cce4fc5286a331e868bd5b7ca556ed8be"
+        "fileHash": "sha256-34b2d8d21defe816102b70646955a6d641544e14f62adbb70a8c3c03b95e9cb8"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/Sinewix.cs3",
@@ -411,7 +411,7 @@
             "keyiflerolsun"
         ],
         "description": "Sinewix | Ücretsiz Film - Dizi - Anime İzleme Uygulaması",
-        "fileSize": 27875,
+        "fileSize": 27892,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -421,7 +421,7 @@
         ],
         "iconUrl": "https://play-lh.googleusercontent.com/brwGNmr7IjA_MKk_TTPs0va10hdKE_bD_a1lnKoiMuCayW98EHpRv55edA6aEoJlmwfX",
         "apiVersion": 1,
-        "fileHash": "sha256-87c3b9d9f31db1a85cab7259e2f9b1e8fcb00fc681eb27706fc29aed9df02b39"
+        "fileHash": "sha256-b1f12e94e1f6a8f7c2554ed7c2683f851161d13ac8783953bdb137f3f3971d33"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/TRanimaci.cs3",
@@ -434,7 +434,7 @@
             "patr0n"
         ],
         "description": "TRanimeci - Türkiye'nin Online Anime izleme sitesi.",
-        "fileSize": 19502,
+        "fileSize": 19516,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -442,7 +442,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=tranimaci.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-6951d8b35cac5d4e994a2611ee3a3490dbf17fa38271c7d00fe8ae91d7dfffb0"
+        "fileHash": "sha256-a8444819e3326a413c2cef31351fc7002a4fd9f876604b0562a59ef8fe98581c"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/TurkAnime.cs3",
@@ -454,7 +454,7 @@
             "keyiflerolsun"
         ],
         "description": "Türk Anime TV - Türkiye'nin Online Anime izleme sitesi.",
-        "fileSize": 21645,
+        "fileSize": 21661,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -462,7 +462,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.turkanime.co&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-c9281e5cd31b9ccd937ad50a38ce9d326b3cb76be23847a8f44e64060fc26aab"
+        "fileHash": "sha256-9da177fc5e67a2e7ce532f530a088ce90f7da75ce9ada12107c2549a95d96add"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/WebdramaTurkey2.cs3",
@@ -474,7 +474,7 @@
             "patr0n"
         ],
         "description": "WebdramaTurkey2 İçerikleri",
-        "fileSize": 50884,
+        "fileSize": 50889,
         "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
@@ -485,7 +485,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
         "apiVersion": 1,
-        "fileHash": "sha256-e6d1c7b9fe9ca524fcf7c61acfd51af174f870464e90a1a110b578e6c9d19c24"
+        "fileHash": "sha256-f252b1db92030fa5f0abfcdeb53e471b11e0b15ab191d57bfac7186c9a00cc2e"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/powerSinema.cs3",
