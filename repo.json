@@ -1,0 +1,8 @@
+{
+  "name": "Personal Cloudstream | @patr0nq",
+  "description": "Türkçe içerikli eklenti havuzu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/master/builds/plugins.json"
+  ]
+}
