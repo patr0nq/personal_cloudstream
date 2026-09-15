@@ -508,5 +508,27 @@
         "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png",
         "apiVersion": 1,
         "fileHash": "sha256-3604901d2b86af81608b3e3fc1e56b91301265c6ac14b6feebab6e6368ba3a6e"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/InatBox.cs3",
+        "status": 1,
+        "version": 30,
+        "name": "InatBox",
+        "internalName": "InatBox",
+        "authors": [
+            "patr0n"
+        ],
+        "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+        "fileSize": 49702,
+        "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Live"
+        ],
+        "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3vCp6N1K4bECoYRQD-cisJF2_6V_Hk01ZhDmoPR2JuM8O5qr4MqrPO1munM9cRlleBBSK6odYhLtDBWv4E3vhPhynlmS5hVVtJZShHoGA5REQ8_3v8SIlccTEqzVQu2UJyNYQdJNrKIfWy66RQeT0D-CcmFCbHPz5023H6p2v5fv4NVloZ5Rqo_yGrIY/s320/iNat-Box-App.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-5fecaf28e812124d605049e2565a54a1f2391cc98a0dc6450001d34ce4cfc4a2"
     }
 ]
