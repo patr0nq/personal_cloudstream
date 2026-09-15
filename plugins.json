@@ -333,7 +333,7 @@
         "fileHash": "sha256-a2c8eeb6c3b39cd6a24e89445c5c86e73d10c917854ea07e753e6d4b0edaef2e"
     },
     {
-        "url": "https://raw.githubusercontent.com/patr0nq/patr0n-cs/builds/RecTV.cs3",
+        "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/RecTV.cs3",
         "status": 1,
         "version": 113,
         "name": "RecTV",
@@ -347,7 +347,7 @@
         ],
         "description": "RecTv APK, Türkiye'deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
         "fileSize": 40211,
-        "repositoryUrl": "https://github.com/patr0nq/patr0n-cs",
+        "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
         "language": "tr",
         "tvTypes": [
             "Movie",
@@ -399,26 +399,6 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=sezonlukdizi6.com&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-26a1aeef0cf0a77c09b907372fc9741cce4fc5286a331e868bd5b7ca556ed8be"
-    },
-    {
-        "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/SinemaCX.cs3",
-        "status": 1,
-        "version": 24,
-        "name": "SinemaCX",
-        "internalName": "SinemaCX",
-        "authors": [
-            "keyiflerolsun"
-        ],
-        "description": "Güncel ve en iyi yabancı filmleri yüksek görüntü kalitesinde, Türkçe dublaj ve altyazı seçenekleriyle filmleri full izleyin.",
-        "fileSize": 19443,
-        "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
-        "language": "tr",
-        "tvTypes": [
-            "Movie"
-        ],
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.sinema.cx&sz=%size%",
-        "apiVersion": 1,
-        "fileHash": "sha256-10b1f2f44b873e684bcd1b84784e42b61cd4ecbab8a543d5e673ab5dd1d35369"
     },
     {
         "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/Sinewix.cs3",
