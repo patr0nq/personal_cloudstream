@@ -486,5 +486,27 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=https://webdramaturkey2.com&sz=%size%",
         "apiVersion": 1,
         "fileHash": "sha256-e6d1c7b9fe9ca524fcf7c61acfd51af174f870464e90a1a110b578e6c9d19c24"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/patr0nq/personal_cloudstream/builds/powerSinema.cs3",
+        "status": 1,
+        "version": 10,
+        "name": "powerboard Sinema - Latte",
+        "internalName": "powerSinema",
+        "authors": [
+            "GitLatte",
+            "patr0nq",
+            "keyiflerolsun"
+        ],
+        "description": "powerboard'un sinema arşivi",
+        "fileSize": 38781,
+        "repositoryUrl": "https://github.com/patr0nq/personal_cloudstream",
+        "language": "tr",
+        "tvTypes": [
+            "Movie"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/powersinema.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-3604901d2b86af81608b3e3fc1e56b91301265c6ac14b6feebab6e6368ba3a6e"
     }
 ]
